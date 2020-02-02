@@ -1,6 +1,6 @@
 # LearningPython
 
-## Resources from Coursera
+# Resources from Coursera
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
