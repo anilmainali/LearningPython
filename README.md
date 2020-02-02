@@ -9,7 +9,7 @@
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html)
 
 
-Links to some of the most popular online interpreters and codepads. Give them a go to find your favorite.
+## Links to some of the most popular online interpreters and codepads. Give them a go to find your favorite.
 
 https://www.python.org/shell/
 
@@ -24,7 +24,7 @@ https://rextester.com/l/python3_online_compiler
 https://trinket.io/python3
 
 
-Additional Python resources
+## Additional Python resources
 
 - [Read the official Python documentation.](https://docs.python.org/3/)
 - [Search for answers or ask a question on Stack Overflow.](https://- stackoverflow.com/)
@@ -34,7 +34,7 @@ Additional Python resources
 
 
 
-Python history and current status
+## Python history and current status
 
 - [History of Python](https://en.wikipedia.org/wiki/History_of_Python)
 - [history of the software](https://docs.python.org/3.0/license.html)
@@ -46,7 +46,7 @@ Python history and current status
 - [Developer Survey Results 2018 (Stack Overflow)](https://insights.stackoverflow.com/survey/2018#technology)
 
 
-[First Programming Concepts Cheat Sheet](https://www.coursera.org/learn/python-crash-course/supplement/nonTo/first-programming-concepts-cheat-sheet)
+## [First Programming Concepts Cheat Sheet](https://www.coursera.org/learn/python-crash-course/supplement/nonTo/first-programming-concepts-cheat-sheet)
 
 
 
