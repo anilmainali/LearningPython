@@ -52,5 +52,14 @@ https://trinket.io/python3
 
 ## My Resources
 
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
 - [Text output](https://pythonprogramminglanguage.com/text-output/)
+
+
+## You Tube
+
+[Python Tutorial || Data Types: int data type || by Durga Sir](https://www.youtube.com/watch?v=mU3KopavjkM)
+
+
 
