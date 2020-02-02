@@ -61,5 +61,8 @@ https://trinket.io/python3
 
 [Python Tutorial || Data Types: int data type || by Durga Sir](https://www.youtube.com/watch?v=mU3KopavjkM)
 
+[Learn Python - Full Fundamental Course for Beginners | Python Tutorial for Beginners [2019]](https://www.youtube.com/watch?v=v_S64kldryc)
+
+
 
 
